@@ -1,2 +1,2 @@
 # HDRN
-the coding is coming.
+the code is coming.
